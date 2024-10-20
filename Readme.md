@@ -4,7 +4,7 @@ Passionate about deep learning, App development, and problem-solving, I'm a fina
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 - **Languages**: C, Python, Kotlin, SQL, JavaScript, HTML/CSS
 - **Platforms**: Linux, Windows, Raspberry Pi
 - **Frameworks**: Jetpack Compose, Flask
