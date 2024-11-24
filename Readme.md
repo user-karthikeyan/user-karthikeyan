@@ -5,13 +5,12 @@ Passionate about deep learning, App development, and problem-solving, I'm a fina
 ---
 
 ## Tech Stack
-- **Languages**: C, Python, Kotlin, SQL, JavaScript, HTML/CSS
+- **Languages**: C, Python, Kotlin, SQL, JavaScript, HTML/CSS, Go
+- **Databases**: MySQL, Firebase, MongoDB
 - **Platforms**: Linux, Windows, Raspberry Pi
 - **Frameworks**: Jetpack Compose, Flask
-- **Tools**: Git/GitHub, Android Studio, Firebase, VS Code, PyCharm
+- **Tools**: Git/GitHub, Android Studio, VS Code, PyCharm, Ansible
 - **Technical Skills**: Data Structures, Algorithms, OOP, DBMS
-
-
 ---
 
 ## Competitive Programming
