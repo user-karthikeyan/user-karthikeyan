@@ -16,4 +16,5 @@ Passionate about deep learning, App development, and problem-solving, I'm a fina
 ## Competitive Programming
 - **LeetCode**: [User-karthikeyan](https://leetcode.com/u/User-karthikeyan/)
 - **CodeChef**: [karthikeyan_a](https://www.codechef.com/users/karthikeyan_a)
+- **Hackerrank**: [Karthikeyan A](https://www.hackerrank.com/profile/2105028_karthi)
 
